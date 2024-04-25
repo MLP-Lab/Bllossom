@@ -177,7 +177,7 @@ print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=Tru
 
 **Vision-Language Model**
 ```text
-@misc{bllossom,
+@misc{bllossom-V,
   author = {Dongjae Shin, Hyunseok Lim, Inho Won, Changsu Choi, Minjun Kim, Seungwoo Song, Hangyeol Yoo, Sangmin Kim, Kyungtae Lim},
   title = {X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment},
   year = {2024},
