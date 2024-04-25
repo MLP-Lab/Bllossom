@@ -191,6 +191,7 @@ print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=Tru
 ## Contact
  - 임경태(KyungTae Lim), Professor at Seoultech. `ktlim@seoultech.ac.kr`
  - 함영균(Younggyun Hahm), CEO of Teddysum. `hahmyg@teddysum.ai`
+ - 김한샘(Hansaem Kim), Professor at Yonsei. `khss@yonsei.ac.kr`
 
 ## Contributor
  - 최창수(Chansu Choi), choics2623@seoultech.ac.kr
