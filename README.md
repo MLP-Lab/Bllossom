@@ -8,7 +8,7 @@ base_model:
 - meta-llama/Meta-Llama-3-8B
 ---
 
-<a href="https://github.com/teddysum/bllossom/blob/main/">
+<a href="https://github.com/MLP-Lab/Bllossom">
   <img src="https://github.com/teddysum/bllossom/blob/main//bllossom_icon.png?raw=true" width="40%" height="50%">
 </a>
 
