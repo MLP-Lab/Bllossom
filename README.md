@@ -12,8 +12,7 @@ base_model:
   <img src="https://github.com/teddysum/bllossom/blob/main//bllossom_icon.png?raw=true" width="40%" height="50%">
 </a>
 
-# Bllossom | [Demo](https://ee68c3f24513b01f81.gradio.live/) | [Homepage](https://www.bllossom.ai/) | [Hugging Face![image](https://github.com/MLP-Lab/Bllossom/assets/87563087/fa971a8b-20aa-484f-9492-72dccb44bdc3)
-](https://huggingface.co/MLP-KTLim/Bllossom) |
+# Bllossom | [Demo](https://ee68c3f24513b01f81.gradio.live/) | [Homepage](https://www.bllossom.ai/) | [Hugging Face(https://huggingface.co/MLP-KTLim/Bllossom) |
 
 The Bllossom language model is a Korean-English bilingual language model based on the open-source LLama3. It enhances the connection of knowledge between Korean and English. It has the following features:
 
